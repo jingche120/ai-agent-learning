@@ -1,0 +1,3 @@
+# 卡片盒暫存區：卡片產出後匯進 Heptabase，不進版控
+# （避免 repo 與 Heptabase 兩份互相競爭、要自己管同步）
+card/
