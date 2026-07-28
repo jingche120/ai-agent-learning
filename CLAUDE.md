@@ -1,4 +1,5 @@
 # CLAUDE.md
+@AGENTS.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
@@ -44,7 +45,6 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 - 沒有原始碼、沒有套件管理器、沒有建置或測試流程 —— 不要憑空推測或建立 `package.json` 之類的東西
 - 檔名使用中文（例如 [使用vide coding的第一步驟.md](使用vide coding的第一步驟.md)），沿用這個慣例，不要改成英文檔名
-- 目前分支 `main` 尚無任何 commit
 
 ## 寫作風格（重要）
 
